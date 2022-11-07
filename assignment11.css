@@ -1,0 +1,24 @@
+
+.heading{
+    position: relative;
+    bottom:200px;
+    right:200px;
+}
+.paragraph{
+    position: relative;
+    bottom:300px;
+    left:500px;
+}
+.thought{
+    width:700px;
+    right:100px;
+    bottom:100px;
+
+}
+.header{
+    display: inline;
+    border: doted;
+    
+    height:50px;
+    width: 100%;
+}
